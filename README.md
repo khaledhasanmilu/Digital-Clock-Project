@@ -32,12 +32,14 @@ To use this digital clock in your project, simply follow these steps:
 That's it! You should now see the digital clock displaying the current time.
 
 ## Demo
-
-You can view a live demo of the Digital Clock project [here](https://your-username.github.io/digital-clock).
+- **Screnshoot**: Here sample screnshoot.
+    <br><br> <img src="Screenshot 2024-03-18 021055.png"/>
+You can view a live demo of the Digital Clock project [here](https://khaledhasanmilu.github.io/digital-clock).
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you'd like to contribute to this project, feel free to open an issue or submit a pull request.If any suggestion for me feel free to knock.
+- kh.milu338@gmail.com
 
 ## License
 
