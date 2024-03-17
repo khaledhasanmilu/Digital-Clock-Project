@@ -1,6 +1,7 @@
 # Digital Clock ⌚
 
 Welcome to the Digital Clock project! This is a simple project to create a digital clock using HTML, CSS, and JavaScript.
+  <br><br> <img src="Screenshot 2024-03-18 021055.png"/>
 
 ## Table of Contents
 
@@ -32,8 +33,6 @@ To use this digital clock in your project, simply follow these steps:
 That's it! You should now see the digital clock displaying the current time.
 
 ## Demo
-- **Screnshoot**: Here sample screnshoot.
-    <br><br> <img src="Screenshot 2024-03-18 021055.png"/>
 You can view a live demo of the Digital Clock project [here](https://khaledhasanmilu.github.io/digital-clock).
 
 ## Contributing
