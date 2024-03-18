@@ -33,7 +33,7 @@ To use this digital clock in your project, simply follow these steps:
 That's it! You should now see the digital clock displaying the current time.
 
 ## Demo
-You can view a live demo of the Digital Clock project [here](https://khaledhasanmilu.github.io/digital-clock).
+You can view a live demo of the Digital Clock project [here](https://khaledhasanmilu.github.io/Digital-Clock-Project/).
 
 ## Contributing
 
